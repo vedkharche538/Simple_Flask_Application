@@ -1,4 +1,4 @@
 # Simple_Flask_Application
-## Simple login and Registration form with edit option enabled using flask application
+## 1) Used OAauth for login and pre-poluate form according to the email id used for login
+## 2) Used javascript validations
 ## Handled all types of vulnerability such as SQL injection etc.
-Flask Application contain some of html page, js file and main python file.
